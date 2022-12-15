@@ -14,11 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Prasanjit Dey
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: d22124678@mytudublin.ie
+description: Welcome to my site
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -60,11 +57,11 @@ plugins:
 author:
   name   : "Prasanjit Dey"
   avatar : "/assets/images/4735-164.jpg"
-  bio    : "PhD Candidate at SFI Centre for Research Training in Digitally-Enhanced Reality. Deep Learning | Machine Learning | Computer Vision | IoT"
+  bio    : "PhD Candidate at Technological University dublin"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://prasanjit-dey.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
