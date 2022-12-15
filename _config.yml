@@ -1,18 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Prasanjit Dey
 email: d22124678@mytudublin.ie
 description: Welcome to my site
@@ -69,8 +55,17 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Prasanjit-Dey"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/prasanjit-dey-815a53194"
+    - label: "G.Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=O_LV4ocAAAAJ&hl=en"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2248-1701"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/prasanjit.dey.581"
 
 footer:
   links:
@@ -79,16 +74,19 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/Prasanjit-Dey"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/prasanjit-dey-815a53194"
     - label: "G.Scholar"
       icon: "fab fa-fw fa-googlescholar"
       url: "https://scholar.google.com/citations?user=O_LV4ocAAAAJ&hl=en"
-    - label: "G.Scholar"
+    - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-2248-1701"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/prasanjit.dey.581"
 
 defaults:
   # _posts
