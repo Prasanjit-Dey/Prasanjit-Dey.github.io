@@ -67,8 +67,8 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/Prasanjit-Dey"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
@@ -81,8 +81,14 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/prasanjit-dey-815a53194"
+    - label: "G.Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=O_LV4ocAAAAJ&hl=en"
+    - label: "G.Scholar"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2248-1701"
 
 defaults:
   # _posts
