@@ -16,6 +16,7 @@ Technical skill: Machine Learning, Deep Learning, IoT
 <br />
 
 DL/ML Framework/Package: PyTorch, TensorFlow, Scikit-learn, OpenCV, Keras, Pandas
+
 <br />
 Programming languages: Python, C, MATLAB, Ardunio, Git, Shell
 
