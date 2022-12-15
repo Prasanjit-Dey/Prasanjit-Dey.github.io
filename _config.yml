@@ -1,0 +1,67 @@
+title:            Soumyabrata DEV's site
+description:      Welcome to my site.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              //Soumyabrata.github.io
+#http://localhost:5000
+#https://jponttuset.github.io
+disqus_shortname: Soumyabrata
+
+# Owner/author information
+owner:
+  name:           Soumyabrata DEV
+  avatar:         SD2019-web.jpeg
+  bio:            Assistant Professor at University College Dublin
+  email:          soumyabrata.dev@ucd.ie
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: SoumyabrataDev
+  linkedin: soumyabratadev
+  google_scholar: _akXw8IAAAAJ
+  orcid: 0000-0002-0153-1095
+  github: Soumyabrata
+  publons: author/1307481/soumyabrata-dev
+# Do the favicons changes in the file _includes/_author-bio.html
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/    
+  - title: Teaching
+    url: /teaching/      
+  - title: Service
+    url: /service/      
+  - title: Team
+    url: /theia/      
+  - title: Contact
+    url: /contact/      
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Zurich
+future:      true
+#pygments:    true
+highlighter: rouge
+markdown:    kramdown
+kramdown:
+  extensions: ["strikethrough"]
+  
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
