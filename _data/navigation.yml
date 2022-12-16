@@ -3,6 +3,8 @@ main:
     url: /Research/
   - title: "Publication"
     url: /Publication/
+  - title: "Education"
+    url: /Publication/
   - title: "Skill"
     url: /Skill/
   - title: "Exprience"
