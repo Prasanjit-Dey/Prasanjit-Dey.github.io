@@ -1,22 +1,18 @@
 ---
-title: 'Rafael Cartenet'
+title: 'Prasanjit Dey'
 layout: single
 author_profile: true
-excerpt: 'Data Engineer based in Shanghai. Looking for new career opportunities.'
+excerpt: 'PhD Candidate at SFI Centre for Research Training in Digitally-Enhanced Reality. Deep Learning | Machine Learning | Computer Vision'
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 # About me
-
-I'm currently working remotely for [Xco-Analytics](https://www.colonnagroup.fr/xco-analytics/) in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
-
+I am currently doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/).
 ---
 
-*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
-I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
+*My PhD is focused on Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks. The world is being urbanised and industrialised at an increasingly accelerated rate and as a result, air quality has significantly deteriorated. World Health Organisation data indicates that air quality in most cities fails to meet safe guidelines. Air pollutants such as SO2 and others have serious long-term exposure effects including heart disease, nerve damage, lung cancer, and respiratory diseases such as emphysema. Even limited exposure to air pollutants is a significant detriment to health, therefore there is a clear need to monitor and provide accurate short-term (1-4 hr) forecasting of atmospheric air pollutants for early warning purposes. Therefore, to prevent citizens being exposed to dangerous air quality conditions, accurate early warning systems are critical to provide citizens with warnings and health recommendations. My main objective will develop an effective atmospheric pollutant monitoring tools in a fast, accurate, and reliable fashion, as discussed via the following sections.*
 
 You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
 
