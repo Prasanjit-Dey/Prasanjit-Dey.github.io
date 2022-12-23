@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 excerpt: Active programmer Deep Learning, Machine Learning and Computer Vision
 header:
-  overlay_image: /images/paris.jpg
+  overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
