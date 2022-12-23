@@ -2,7 +2,7 @@
 title: 'Prasanjit Dey'
 layout: single
 author_profile: true
-excerpt: 'PhD Candidate at SFI Centre for Research Training in Digitally-Enhanced Reality. Deep Learning | Machine Learning | Computer Vision'
+excerpt: Active programmer | Deep Learning | Machine Learning | Computer Vision'
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
