@@ -1,4 +1,0 @@
----
-permalink: /Exprience/
-title: "Exprience"
----

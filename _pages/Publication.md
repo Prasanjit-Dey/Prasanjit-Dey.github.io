@@ -1,4 +1,0 @@
----
-permalink: /Publication/
-title: "Publication"
----
