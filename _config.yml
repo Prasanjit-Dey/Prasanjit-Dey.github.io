@@ -43,7 +43,7 @@ plugins:
 author:
   name   : "Prasanjit Dey"
   avatar : "/assets/images/bio.jpg"
-  bio    : "PhD Candidate at Technological University dublin"
+  bio    : "PhD Candidate at Technological University Dublin"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
