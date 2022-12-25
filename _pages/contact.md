@@ -9,3 +9,11 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+|                  |                                                                       |
+|------------------|-----------------------------------------------------------------------|
+| email            | <a href="d22124678@mytudublic.ie">d22124678@mytudublin.ie</a>|
+| phone            | + 353 899 538 209                                                       |
+| address          | Park House Grangegorman                                                     |
+| (Research)      | 3rd Floor, TU Dublin, Park House, Grangegorman, Dublin 7                                 |
+|                  | TU Dublin, Ireland                                       |
+|                  | (see <a href="https://goo.gl/maps/27jXmBzQf29igpfi9">Google Maps</a>) |
