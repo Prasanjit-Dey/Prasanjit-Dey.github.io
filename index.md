@@ -18,8 +18,8 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Previous work experiences
 
-- **Machine Learning R&D Engineer** - Shanghai:  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
+- **Project Associate (Level-II)** - India:  
+  I worked as a Project Associate (Level-II) in Mine Mechanization, Automation and Technology Development (MMATD) of [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), Dhanbad under the aegis Of the Ministry of Science and Technology, Government of India. I worked on project titles *“Development of vision enhancement system for foggy weather”* and *“Development of digital mine using internet of things”*.
 
 - **Research Assistant** - Daejon (South-Korea):  
   I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
