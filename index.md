@@ -27,37 +27,39 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Education
 
-- **Graduate Exchange Program** - Daejeon (South-Korea):  
-  I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
+- **BTech in Computer Science and Engineering** - Kolkata (India):  
+  I did my graduation with a comprehensive background in computer science and post-graduation in information technology from the [West Bengal University of Technology](https://makautwb.ac.in/), India. I developed a computational attitude towards all physical phenomena during my university and presented them in a mathematical model. During my graduation, I solve real-life problems using computational intelligence.
 
-- **Master Of Engineering** - Rouen (France):  
-  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
+- **MTech in Information Technology** - Kolkata (India):  
+  I did my post-graduation in information technology from the [MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL](https://makautwb.ac.in/). My MTech thesis was **“Developed Energy-Efficient Smart City Design using Wireless Local Area Network (WLAN)”**. The primary aim of the project was to develop an algorithm for constructing an energy-efficient smart city. Here, the WLAN controller was designed so that if no node sends a request to the Access Point (AP), the AP will be switched from its active to sleep mode.
+  
+- **PhD in School of Computer Science** - Dublin (Ireland):  
+Currently I doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/). My PhD is focused on Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks.
 
 ---
 
 ## Programming Skills
 
-Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
+Proficient with: **Python, C, Tensorflow, Scikit-Learn, Matlab, SQL, Git, OpenCV, Keras, Pandas, Ardunio.**
 
-Familiar with: **Java**
+Familiar with: **Java, C++**
+
+## Technical Skills
+
+Proficient with: **Machine Learning, Deep Learning, IoT.**
 
 ## Languages
 
 | Language | Level  |
 |----------|--------|
 | English  | Fluent |
-| French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
+| Bengali   | Fluent |
+| Hindi |  Fluent |
 
 ## CV
 
 Find attached the PDF version of my CVs:  
 *English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
 
-Update: 2020/01/13
+Update: 2022/12/25
 
-## Contact me
-
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
