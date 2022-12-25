@@ -6,7 +6,7 @@ main:
     url: /publications/  
   - title: "Blog"
     url: /blog/
-  - title: "Contact Me"
+  - title: "Contact"
     url: /contact/ 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
