@@ -5,7 +5,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Contact"
-    url: /Contact/ 
+    url: /contact/ 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
