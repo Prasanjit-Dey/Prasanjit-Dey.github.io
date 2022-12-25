@@ -1,7 +1,7 @@
 ---
-title: 'Contact'
+title: 'contact'
 layout: single
-permalink: /Contact/
+permalink: /contact/
 author_profile: true
 excerpt: 'You will find below of my contact details.'
   overlay_image: /images/Profile-picture.jpg
