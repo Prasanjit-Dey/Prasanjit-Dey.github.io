@@ -40,7 +40,7 @@ Currently I doing **PhD in Computer Science** at the [SFI Centre for Research Tr
 
 ## Programming Skills
 
-Proficient with: **Python, C, Tensorflow, Scikit-Learn, Matlab, SQL, Git, OpenCV, Keras, Pandas, Ardunio.**
+Proficient with: **Python, C, Tensorflow, Scikit-Learn, Matlab, SQL, Git, OpenCV, Keras, Pandas, Ardunio, Latex.**
 
 Familiar with: **Java, C++**
 
