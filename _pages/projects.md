@@ -8,7 +8,7 @@ header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
+<!---
 ## Computer Vision
 
 - [**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
@@ -51,3 +51,4 @@ header:
 
 - [**ACM ICPC solutions**](https://github.com/RafaelCartenet/ACMICPC-Training): My different solutions for the past problems of ACM ICPC. https://icpc.baylor.edu/worldfinals/problems
 - [**Codingame solutions**](https://github.com/RafaelCartenet/Codingame): My different solutions for the Codingame platform. https://www.codingame.com/
+--->
