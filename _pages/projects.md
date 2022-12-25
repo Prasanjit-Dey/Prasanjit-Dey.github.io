@@ -3,12 +3,12 @@ title: 'Projects'
 layout: single
 permalink: /projects/
 author_profile: true
-excerpt: 'You will find below a non-exhaustive list of the different projects I realized during the last years, as well as links to the source codes, if publicly available.'
+excerpt: 'You will find below a list of different projects I have completed in recent years. I have included links to the source code if it is publicly available.'
 header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-=begin
+
 ## Computer Vision
 
 - [**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
@@ -51,4 +51,3 @@ header:
 
 - [**ACM ICPC solutions**](https://github.com/RafaelCartenet/ACMICPC-Training): My different solutions for the past problems of ACM ICPC. https://icpc.baylor.edu/worldfinals/problems
 - [**Codingame solutions**](https://github.com/RafaelCartenet/Codingame): My different solutions for the Codingame platform. https://www.codingame.com/
-=end
