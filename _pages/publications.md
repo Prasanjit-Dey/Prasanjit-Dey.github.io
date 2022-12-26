@@ -3,7 +3,7 @@ title: 'Publications'
 layout: single
 permalink: /publications/
 author_profile: true
-excerpt: 'You will find below a list of different projects I have completed in recent years. I have included links to the source code if it is publicly available.'
+excerpt: 'You will find below a list of publications. I have included of the paper link'
 header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -21,3 +21,11 @@ header:
  (**[Paper Link](https://link.springer.com/article/10.1007/s12652-020-02700-w)**)
 
 + Dey, Prasanjit, Swades Kumar Chaulya, and Sanjay Kumar. "Secure decision tree twin support vector machine training and classification process for encrypted IoT data via blockchain platform." Concurrency and Computation: Practice and Experience 33, no. 16 (2021): e6264. (**[Paper Link](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6264?casa_token=MyeVt1zmAAMAAAAA%3AQcONtr9FKP7oY5rePauJ_XqlwEs4bqlUWDUkCzzp_TRY2Z348lDYXKUuXDNt0eZR-NIVaEXbLogG0Q)**)
+
++ Hati, Sourav, Prasanjit Dey, and Debashis De. "WLAN based energy efficient smart city design." Microsystem Technologies 25, no. 5 (2019): 1599-1612. (**[Paper Link](https://link.springer.com/article/10.1007/s00542-017-3530-6)**)
+
+---
+
+## Conferences
+
++ Agarwal, Aditya, Prasanjit Dey, and Sanjay Kumar. "Sentiment Analysis using Modified GRU." In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing, pp. 356-361. 2022. (**[Paper Link](https://dl.acm.org/doi/abs/10.1145/3549206.3549270?casa_token=cpqGMWCluvsAAAAA:pZJgEREDHZRwBnv3jiVqNGkii08gDM6ykoW7AkErZXbHYyWuU3koViqtYhU4XKOtaUUjangs0U4)**)
