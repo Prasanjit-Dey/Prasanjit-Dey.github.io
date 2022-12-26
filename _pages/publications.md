@@ -3,7 +3,7 @@ title: 'Publications'
 layout: single
 permalink: /publications/
 author_profile: true
-excerpt: 'You will find below a list of publications. I have included of the paper link'
+excerpt: 'You will find below a list of publications. I have included each of the paper link'
 header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
