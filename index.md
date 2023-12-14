@@ -46,7 +46,7 @@ Familiar with: **Java, C++**
 
 ## Technical Skills
 
-Proficient with: **Machine Learning, Deep Learning, IoT.**
+Proficient with: **Machine Learning, Deep Learning, Computer Vision, IoT.**
 
 ## Languages
 
