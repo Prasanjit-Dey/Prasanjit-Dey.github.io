@@ -59,7 +59,7 @@ Proficient with: **Machine Learning, Deep Learning, Computer Vision, IoT.**
 ## CV
 
 Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
+*English version*: [CV]({{ site.url }}/download/Prasanjit_Dey.pdf)  
 
 Update: 2022/12/25
 
