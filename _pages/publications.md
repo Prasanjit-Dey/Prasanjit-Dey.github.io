@@ -10,6 +10,8 @@ header:
 ---
 
 ## Journals
++ Prasanjit Dey,Soumyabrata Dev,Bianca Schoen Phelan.”CombineDeepNet:ADeep Network for Multi-Step Prediction of Near-Surface PM2.5 Concentration” IEEE Jour- nal of Selected Topics in Applied Earth Observations and Remote (2024) (I.F. 5.5) (SCIE)(**[Paper Link](https://ieeexplore.ieee.org/document/10319682)**)
+
 
 + Kumari, K., Prasanjit Dey, Chandan Kumar, Dewangshu Pandit, S. S. Mishra, Vikash Kisku, S. K. Chaulya, S. K. Ray, and G. M. Prasad. "UMAP and LSTM based fire status and explosibility prediction for sealed-off area in underground coal mine." *Process Safety and Environmental Protection* 146 (2021): 837-852. (**[Paper Link](https://www.sciencedirect.com/science/article/pii/S0957582020319467?casa_token=wmoCpRAtGgUAAAAA:dW8ddyvQ5ihLIpxc4cs_-QQpl0_2fUzbUeRF909usENHSQwneH4paRy9JmMmtGtE43RljJM)**)
 
