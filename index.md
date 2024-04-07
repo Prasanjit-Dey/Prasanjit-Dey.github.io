@@ -13,9 +13,9 @@ I am currently doing **PhD in Computer Science** at the [SFI Centre for Research
 
 ---
 
-*My Ph.D. research focuses on the Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks. The world is undergoing rapid urbanization and industrialization, leading to a significant deterioration in air quality. According to World Health Organization data, air quality in most cities does not meet safe guidelines. Exposure to air pollutants poses serious long-term health risks, including heart disease, nerve damage, lung cancer, and respiratory diseases such as emphysema. Even limited exposure to air pollutants can have a detrimental impact on health. Therefore, there is a clear need to monitor and provide accurate forecasts of atmospheric air pollutants for early warning purposes.
+My Ph.D. research focuses on the Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks. The world is undergoing rapid urbanization and industrialization, leading to a significant deterioration in air quality. According to World Health Organization data, air quality in most cities does not meet safe guidelines. Exposure to air pollutants poses serious long-term health risks, including heart disease, nerve damage, lung cancer, and respiratory diseases such as emphysema. Even limited exposure to air pollutants can have a detrimental impact on health. Therefore, there is a clear need to monitor and provide accurate forecasts of atmospheric air pollutants for early warning purposes.
 
-In light of this, I am developing an AI-based intelligent system using deep learning and computer vision to deliver fast, accurate, and reliable warnings.*
+In light of this, I am developing an AI-based intelligent system using deep learning and computer vision to deliver fast, accurate, and reliable warnings.
 
 You can check about my different projects on my [projects page](https://prasanjit-dey.github.io/projects/)
 
