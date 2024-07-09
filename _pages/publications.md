@@ -33,4 +33,4 @@ header:
 
 ## Conferences
 
-+ Agarwal, Aditya, Prasanjit Dey, and Sanjay Kumar. "Sentiment Analysis using Modified GRU." In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing, pp. 356-361. 2022. (**[Paper Link](https://dl.acm.org/doi/abs/10.1145/3549206.3549270?casa_token=cpqGMWCluvsAAAAA:pZJgEREDHZRwBnv3jiVqNGkii08gDM6ykoW7AkErZXbHYyWuU3koViqtYhU4XKOtaUUjangs0U4)**)
+<small>Agarwal, Aditya, Prasanjit Dey, and Sanjay Kumar. "Sentiment Analysis using Modified GRU." In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing, pp. 356-361. 2022. (**[Paper Link](https://dl.acm.org/doi/abs/10.1145/3549206.3549270?casa_token=cpqGMWCluvsAAAAA:pZJgEREDHZRwBnv3jiVqNGkii08gDM6ykoW7AkErZXbHYyWuU3koViqtYhU4XKOtaUUjangs0U4)**)</small>
