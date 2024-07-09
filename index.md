@@ -8,17 +8,22 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me
+## About me
 <small>I am currently doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/). My Ph.D. research focuses on the Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks. The world is undergoing rapid urbanization and industrialization, leading to a significant deterioration in air quality. According to World Health Organization data, air quality in most cities does not meet safe guidelines. Exposure to air pollutants poses serious long-term health risks, including heart disease, nerve damage, lung cancer, and respiratory diseases such as emphysema. Even limited exposure to air pollutants can have a detrimental impact on health. As part of my research, I am developing an AI-based prediction system employing deep learning, computer vision, and satellite imagery to provide rapid, precise, and dependable warnings.</small>
 
 ## Exprience 
 
-<small>1. **Tutor/Senior Demonstrator** in [Technological University Dublin, Ireland](https://www.tudublin.ie/) for 2023/01–2023/06.</small>
-<small>+ I served as a Tutor and Senior Demonstrator at the Technological University Dublin in the School of Informatics and Cybersecurity, where I specialized in Secure Programming.</small>
+<small>1. **Tutor/Senior Demonstrator** in [Technological University Dublin, Ireland](https://www.tudublin.ie/) from 2023/01–2023/06.</small>
+
+-<small>I served as a Tutor and Senior Demonstrator at the Technological University Dublin in the School of Informatics and Cybersecurity, where I specialized in Secure Programming.</small>
+
+<small> 2. **Junior Research Fellow** in [National Institute of Technology Jamshedpur, India](https://www.nitjsr.ac.in/) from 2020/12–2022/08.
+
+-<small>My work involved monitoring and predicting time-series data using deep learning models and computer vision, forecasting air quality pollutants, and analyzing satellite data for predictive insights.</small>
 
 <small>2. **Project Assistant (Level-III)** in [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India from 2018/12–2020/10. </small>
 
-<small>+ My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT-LAB, and Simulink.</small>
+-<small>My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT-LAB, and Simulink.</small>
 
 - **Assistant Professor** - India:  
   I have an excellent knowledge of Teaching. I worked as an Assistant Professor at [Ramgovind Institute of Technology](https://rgc.edu.in/) at Jharkhand, India. I taught the subjects such as Computer Network, Artificial Intelligence, Algorithm, Data Structure, and Database Management.
