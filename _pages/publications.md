@@ -32,6 +32,13 @@ header:
 
 
 ## Conferences
-<small>1. Abdel Azeem Menatallah, Prasanjit Dey, and Soumyabrata Dev. "A Multidimensionality Reduction Approach to Rainfall Prediction." In 2023 Photonics & Electromagnetics Research Symposium (PIERS), pp. 499-508. IEEE, 2023.([Paper Link](https://ieeexplore.ieee.org/abstract/document/10221498?casa_token=TvOac33eh08AAAAA:NSF9RZWLE0I0iVnWDDg7XerB1wb9MIniwlbNO8kztSsha-S37SiI4IsPkbIxz5HpIUj8Dw2U21Qi))</small>
 
-<small>2. Aditya Agarwal, Prasanjit Dey, and Sanjay Kumar. "Sentiment Analysis using Modified GRU." In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing, pp. 356-361. 2022. (**[Paper Link](https://dl.acm.org/doi/abs/10.1145/3549206.3549270?casa_token=cpqGMWCluvsAAAAA:pZJgEREDHZRwBnv3jiVqNGkii08gDM6ykoW7AkErZXbHYyWuU3koViqtYhU4XKOtaUUjangs0U4)**)</small>
+<small>1. Dey, Prasanjit, Soumyabrata Dev, and Bianca Schoen Phelan. "BiLSTM− BiGRU: A Fusion Deep Neural Network For Predicting Air Pollutant Concentration." In IGARSS 2023-2023 IEEE international geoscience and remote sensing symposium, pp. 5166-5169. IEEE, 2023.(**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10282742?casa_token=TTS8BPPhts8AAAAA:SdNSwLe8a5n816usi8T_31zw2JaGBQqIytu_6u4vs18ps6Q-vzPWFM6FIrtXtZTVcfEel3smvNBw)**)</small>
+
+<small>2. Prasanjit Dey, Soumyabrata Dev, and Bianca Schoen-Phelan. "NeSDeepNet: A Fusion Framework for Multi-step Forecasting of Near-surface Air Pollutants." In 2023 photonics & electromagnetics research symposium (PIERS), pp. 1826-1834. IEEE, 2023.(**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10221327?casa_token=AMc7RNx0v3QAAAAA:0b3aVKUnwowjHDaQk_QZPXcN6_qdvLF-a-J0_s4bbfEyaGwFRYUymKkyDSlE5Mur7jBvzH76bxn-)**)</small>
+
+<small>3. Akrami, Neda, Yue Li, Prasanjit Dey, and Soumyabrata Dev. "Spatial-Temporal-TES: Reanalysis Dataset based Short-Term Temperature Forecasting System." In 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), pp. 1763-1768. IEEE, 2023.(**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10512739?casa_token=E8jsyyxG92gAAAAA:aVLVg5OszPIOp_NWQXAewLyAvYuvrUEeG00kRWOm2AJfboa6_6_S89lpN_xDpDh3Ur0ruUpxbwIN)**)</small>
+
+<small>4. Abdel Azeem Menatallah, Prasanjit Dey, and Soumyabrata Dev. "A Multidimensionality Reduction Approach to Rainfall Prediction." In 2023 Photonics & Electromagnetics Research Symposium (PIERS), pp. 499-508. IEEE, 2023.(**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10221498?casa_token=TvOac33eh08AAAAA:NSF9RZWLE0I0iVnWDDg7XerB1wb9MIniwlbNO8kztSsha-S37SiI4IsPkbIxz5HpIUj8Dw2U21Qi)**)</small>
+
+<small>5. Aditya Agarwal, Prasanjit Dey, and Sanjay Kumar. "Sentiment Analysis using Modified GRU." In Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing, pp. 356-361. 2022. (**[Paper Link](https://dl.acm.org/doi/abs/10.1145/3549206.3549270?casa_token=cpqGMWCluvsAAAAA:pZJgEREDHZRwBnv3jiVqNGkii08gDM6ykoW7AkErZXbHYyWuU3koViqtYhU4XKOtaUUjangs0U4)**)</small>
