@@ -116,15 +116,12 @@ author:
   github           : "Prasanjit-Dey"
   gitlab           :
   google_plus      :
-  Google Scholar   : "citations?user=O_LV4ocAAAAJ&hl=en"
+  Google_Scholar   : "citations?user=O_LV4ocAAAAJ&hl=en"
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : "prasanjit-dey" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  ORCID            : "0000-0002-2248-1701"
-  <img src="https://www.google.com/s2/favicons?domain=scholar.google.com" alt="Google Scholar" />
-  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" />
-
+  Orcid            : "0000-0002-2248-1701"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
