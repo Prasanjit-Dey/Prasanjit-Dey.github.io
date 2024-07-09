@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Prasanjit Dey'
 layout: single
 author_profile: true
 excerpt: Active programmer of Deep Learning, Machine Learning and Computer Vision
