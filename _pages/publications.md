@@ -10,9 +10,10 @@ header:
 ---
 
 ## Journals
-1. Prasanjit Dey, Soumyabrata Dev, Bianca Schoen Phelan. "Predicting Multivariate Air Pollution: A Gaussian-Mixture Nested Factorial Variational Autoencoder Approach" IEEE Geoscience and Remote Sensing Letters (2024) (SCIE) (Q1) (**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10560024)**)
+<small>
+1. **Prasanjit Dey**, Soumyabrata Dev, Bianca Schoen Phelan. "Predicting Multivariate Air Pollution: A Gaussian-Mixture Nested Factorial Variational Autoencoder Approach" IEEE Geoscience and Remote Sensing Letters (2024) (SCIE) (Q1) (**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10560024)**)
   
-2. Prasanjit Dey, Soumyabrata Dev, Bianca Schoen Phelan. "CombineDeepNet:ADeep Network for Multi-Step Prediction of Near-Surface PM2.5 Concentration" IEEE Journal of Selected Topics in Applied Earth Observations and Remote (2024) (SCIE) (Q1)(**[Paper Link](https://ieeexplore.ieee.org/document/10319682)**)
+2. **Prasanjit Dey**, Soumyabrata Dev, Bianca Schoen Phelan. "CombineDeepNet:ADeep Network for Multi-Step Prediction of Near-Surface PM2.5 Concentration" IEEE Journal of Selected Topics in Applied Earth Observations and Remote (2024) (SCIE) (Q1)(**[Paper Link](https://ieeexplore.ieee.org/document/10319682)**)
 
 3. Prasanjit Dey, Bibhash Pran Das, Yee Hui Lee, Soumyabrata Dev. "NeSNet:ADeep Network for Estimating Near-surface Pollutant Concentrations." IEEE Journal of Selected Topics in Applied Earth Observations and Remote (2023) (SCIE) (Q1) (**[Paper Link](https://ieeexplore.ieee.org/document/10043715)**)
 
@@ -28,7 +29,7 @@ header:
 8. Dey, Prasanjit, Swades Kumar Chaulya, and Sanjay Kumar. "Secure decision tree twin support vector machine training and classification process for encrypted IoT data via blockchain platform." Concurrency and Computation: Practice and Experience 33, no. 16 (2021): e6264. (SCIE) (**[Paper Link](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6264?casa_token=MyeVt1zmAAMAAAAA%3AQcONtr9FKP7oY5rePauJ_XqlwEs4bqlUWDUkCzzp_TRY2Z348lDYXKUuXDNt0eZR-NIVaEXbLogG0Q)**)
 
 9. Hati, Sourav, Prasanjit Dey, and Debashis De. "WLAN based energy efficient smart city design." Microsystem Technologies 25, no. 5 (2019): 1599-1612. (SCI) (**[Paper Link](https://link.springer.com/article/10.1007/s00542-017-3530-6)**)
-
+</small>
 ---
 
 ## Conferences
