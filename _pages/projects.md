@@ -8,6 +8,12 @@ header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
+
+<small>I worked on project titles *“Development of vision enhancement system for foggy weather”* and *“Development of digital mine using internet of things”*. My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. The project encompassed real-time image stitching using the OpenCV library, real- time vision enhancement algorithms, and real-time object detection using YOLO models.</small>
+
+Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT- LAB, and Simulink. This project included modules for mine gas monitoring and prediction using deep learning, IoT-based miners tracking, strata monitoring and prediction, and machine health monitoring and prediction using deep learning.
+</small>
+
 <!---
 ## Computer Vision
 
