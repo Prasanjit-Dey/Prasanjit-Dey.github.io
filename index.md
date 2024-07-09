@@ -13,21 +13,13 @@ header:
 
 ## Exprience 
 
-<small>1. **Tutor/Senior Demonstrator** in [Technological University Dublin, Ireland](https://www.tudublin.ie/) from 2023/01–2023/06.</small>
+<small>1. **Tutor/Senior Demonstrator** in [Technological University Dublin, Ireland](https://www.tudublin.ie/) from 2023/01–2023/06. I served as a Tutor and Senior Demonstrator in the School of Informatics and Cybersecurity, where I specialized in Secure Programming.</small>
 
-  <small>I served as a Tutor and Senior Demonstrator at the Technological University Dublin in the School of Informatics and Cybersecurity, where I specialized in Secure Programming.</small>
+<small> 2. **Junior Research Fellow** in [National Institute of Technology Jamshedpur, India](https://www.nitjsr.ac.in/) from 2020/12–2022/08. My work involved monitoring and predicting time-series data using deep learning models and computer vision, forecasting air quality pollutants, and analyzing satellite data for predictive insights.</small>
 
-<small> 2. **Junior Research Fellow** in [National Institute of Technology Jamshedpur, India](https://www.nitjsr.ac.in/) from 2020/12–2022/08.
+<small>2. **Project Assistant (Level-III)** in [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India from 2018/12–2020/10. My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT-LAB, and Simulink.</small>
 
-  <small>My work involved monitoring and predicting time-series data using deep learning models and computer vision, forecasting air quality pollutants, and analyzing satellite data for predictive insights.</small>
-
-<small>2. **Project Assistant (Level-III)** in [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India from 2018/12–2020/10. </small>
-
-  <small>My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT-LAB, and Simulink.</small>
-
-- **Assistant Professor** in [Ramgovind Institute of Technology, India](https://rgc.edu.in/) form 2017/02–2018/07.  
-
-  <small>I served as an Assistant Professor at Ramgovind Institute of Technologyin Koderma, where I taught courses on computer networks, operating systems, database manage- ment, algorithms, and data structures.</small>
+<small>**Assistant Professor** in [Ramgovind Institute of Technology, India](https://rgc.edu.in/) form 2017/02–2018/07. I taught courses on computer networks, operating systems, database manage- ment, algorithms, and data structures.</small>
 
 ## Education
 
