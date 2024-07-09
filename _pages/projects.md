@@ -11,12 +11,14 @@ header:
 
 
 ## Computer Vision
-- <small>**Vision Enhancement for Foggy Weather using Computer Vision** (CSIR-CIMFR project): The project encompassed real-time image stitching using the OpenCV library, real- time vision enhancement algorithms, and real-time object detection using YOLO models.</small>
+- <small>**Vision Enhancement for Foggy Weather using Computer Vision** (CSIR-CIMFR project): The project encompassed real-time image stitching using the OpenCV library, real-time vision enhancement algorithms, and real-time object detection using YOLO models.</small>
 
 ## Time series
 
 
-## IOT
+## IoT
+
+- <small>**Digital Mine Using Internet of Things (IoT)** (CSIR-CIMFR project): This project included modules for mine gas monitoring and prediction using deep learning, IoT-based miners tracking, strata monitoring and prediction, and machine health monitoring and prediction using deep learning.</small>
 
 
 
