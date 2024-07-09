@@ -14,7 +14,7 @@ header:
 Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT- LAB, and Simulink. This project included modules for mine gas monitoring and prediction using deep learning, IoT-based miners tracking, strata monitoring and prediction, and machine health monitoring and prediction using deep learning.
 </small>
 
-<!---
+
 ## Computer Vision
 
 - [**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
@@ -57,4 +57,4 @@ Also, creating Digital Mine software with Django, Python, and IoT technologies, 
 
 - [**ACM ICPC solutions**](https://github.com/RafaelCartenet/ACMICPC-Training): My different solutions for the past problems of ACM ICPC. https://icpc.baylor.edu/worldfinals/problems
 - [**Codingame solutions**](https://github.com/RafaelCartenet/Codingame): My different solutions for the Codingame platform. https://www.codingame.com/
---->
+
