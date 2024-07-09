@@ -12,9 +12,9 @@ header:
 <small>I am currently doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/). My Ph.D. research focuses on the Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks. The world is undergoing rapid urbanization and industrialization, leading to a significant deterioration in air quality. According to World Health Organization data, air quality in most cities does not meet safe guidelines. Exposure to air pollutants poses serious long-term health risks, including heart disease, nerve damage, lung cancer, and respiratory diseases such as emphysema. Even limited exposure to air pollutants can have a detrimental impact on health. As part of my research, I am developing an AI-based prediction system employing deep learning, computer vision, and satellite imagery to provide rapid, precise, and dependable warnings.</small>
 
 
-## Previous work experiences
+## Exprience 
 
-- **Project Associate (Level-II)** - India:  
+- **Project Associate (Level-II)** - in Mine Mechanization, Automation and Technology Development (MMATD) of [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India:  
   I worked as a Project Associate (Level-II) in Mine Mechanization, Automation and Technology Development (MMATD) of [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), Dhanbad under the aegis Of the Ministry of Science and Technology, Government of India. I worked on project titles *“Development of vision enhancement system for foggy weather”* and *“Development of digital mine using internet of things”*.
 
 - **Assistant Professor** - India:  
