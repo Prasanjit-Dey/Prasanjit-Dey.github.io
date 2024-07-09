@@ -10,7 +10,6 @@ header:
 ---
 
 ## Journals
-<div style="font-size: 12px;">
 
 1. **Prasanjit Dey**, Soumyabrata Dev, Bianca Schoen Phelan. "Predicting Multivariate Air Pollution: A Gaussian-Mixture Nested Factorial Variational Autoencoder Approach" IEEE Geoscience and Remote Sensing Letters (2024) (SCIE) (Q1) (**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10560024)**)
   
@@ -30,7 +29,7 @@ header:
 
 9. Hati, Sourav, **Prasanjit Dey**, and Debashis De. "WLAN based energy efficient smart city design." Microsystem Technologies 25, no. 5 (2019): 1599-1612. (SCI) (**[Paper Link](https://link.springer.com/article/10.1007/s00542-017-3530-6)**)
 
-</div>
+
 
 ## Conferences
 
