@@ -11,12 +11,11 @@ header:
 # About me
 <small>I am currently doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/). My Ph.D. research focuses on the Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks. The world is undergoing rapid urbanization and industrialization, leading to a significant deterioration in air quality. According to World Health Organization data, air quality in most cities does not meet safe guidelines. Exposure to air pollutants poses serious long-term health risks, including heart disease, nerve damage, lung cancer, and respiratory diseases such as emphysema. Even limited exposure to air pollutants can have a detrimental impact on health. As part of my research, I am developing an AI-based prediction system employing deep learning, computer vision, and satellite imagery to provide rapid, precise, and dependable warnings.</small>
 
-
 ## Exprience 
 <small>
-**Project Associate (Level-II)** in Mine Mechanization, Automation and Technology Development (MMATD) of [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India:  
+**Project Associate (Level-II)** in Mine Mechanization, Automation and Technology Development (MMATD) of [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India </small>
 
-I worked on project titles *“Development of vision enhancement system for foggy weather”* and *“Development of digital mine using internet of things”*. My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. The project encompassed real-time image stitching using the OpenCV library, real- time vision enhancement algorithms, and real-time object detection using YOLO models.
+<small>I worked on project titles *“Development of vision enhancement system for foggy weather”* and *“Development of digital mine using internet of things”*. My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. The project encompassed real-time image stitching using the OpenCV library, real- time vision enhancement algorithms, and real-time object detection using YOLO models.</small>
 
 Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT- LAB, and Simulink. This project included modules for mine gas monitoring and prediction using deep learning, IoT-based miners tracking, strata monitoring and prediction, and machine health monitoring and prediction using deep learning.
 </small>
