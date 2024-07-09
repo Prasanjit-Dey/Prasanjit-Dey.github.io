@@ -9,7 +9,7 @@ header:
 ---
 
 # About me
-I am currently doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/).
+<small>I am currently doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/).</small>
 
 ---
 
