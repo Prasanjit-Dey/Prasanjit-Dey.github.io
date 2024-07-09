@@ -15,6 +15,8 @@ header:
 - <small>**Vision Enhancement for Foggy Weather using Computer Vision** (CSIR-CIMFR project): The project encompassed real-time image stitching using the OpenCV library, real-time vision enhancement algorithms, and real-time object detection using YOLO models.</small>
 
 ## Time series
+- **Short-term Forecasting of Atmospheric Air Pollutants using Deep Neural Networks** (PhD project): This project aims to forecast atmospheric air pollutants, monitor and identify pollu- tants using satellite data and image processing, and develop an early warning system for hazardous gases in open air.
+   
 - <small>**Time-series data prediction using Deep Learning** (NIT-Jamshedpur project): This project included the prediction of time-series data with satellite data and com- puter vision methodologies.</small>
 
 ## IoT
