@@ -13,12 +13,12 @@ header:
 
 ## Exprience 
 
-**Tutor/Senior Demonstrator** in [Technological University Dublin, Ireland](https://www.tudublin.ie/) for 2023/01–2023/06.
-+ IservedasaTutorandSeniorDemonstratorattheTechnologicalUniversityDublinin the School of Informatics and Cybersecurity, where I specialized in Secure Program- ming.
-<small>
-**Project Assistant (Level-III)** in Mine Mechanization, Automation and Technology Development (MMATD) of [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India from 2018/12–2020/10. </small>
+<small>1. **Tutor/Senior Demonstrator** in [Technological University Dublin, Ireland](https://www.tudublin.ie/) for 2023/01–2023/06.</small>
+<small>+ I served as a Tutor and Senior Demonstrator at the Technological University Dublin in the School of Informatics and Cybersecurity, where I specialized in Secure Programming.</small>
 
-+ My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT-LAB, and Simulink.
+<small>2. **Project Assistant (Level-III)** in [CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)](https://cimfr.nic.in/), India from 2018/12–2020/10. </small>
+
+<small>+ My responsibilities included developing vision enhancement software for foggy weather using TensorFlow and OpenCV. Also, creating Digital Mine software with Django, Python, and IoT technologies, predicting mine hazards with deep learning models, and developing a voice communication system using Raspberry Pi, MAT-LAB, and Simulink.</small>
 
 - **Assistant Professor** - India:  
   I have an excellent knowledge of Teaching. I worked as an Assistant Professor at [Ramgovind Institute of Technology](https://rgc.edu.in/) at Jharkhand, India. I taught the subjects such as Computer Network, Artificial Intelligence, Algorithm, Data Structure, and Database Management.
