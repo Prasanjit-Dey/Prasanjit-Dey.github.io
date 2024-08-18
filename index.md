@@ -2,7 +2,7 @@
 title: 'Prasanjit Dey'
 layout: single
 author_profile: true
-excerpt: Active programmer of Deep Learning, Machine Learning and Computer Vision
+excerpt: Ph.D. candidate specializing in LLMs, deep learning, computer vision, and AI-based prediction systems. Experienced in designing machine learning models for real-world applications such as air quality forecasting and vision enhancement. Eager to apply skills in AI research for smart network innovation.
 header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
