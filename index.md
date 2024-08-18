@@ -34,13 +34,13 @@ header:
 <small>Familiar with: **Java, C++**</small>
 
 ## Frameworks: 
-<small>TensorFlow, PyTorch</small>
+<small>**TensorFlow, PyTorch**</small>
 
 ## AI/ML Techniques:
-<small>LLMs, Deep Learning, Computer Vision, Time-Series Forecasting</small>
+<small>**LLMs, Deep Learning, Computer Vision, Time-Series Forecasting**</small>
 
 ## Tools: 
-<small>MATLAB, OpenCV, Arduino</small>
+<small>**MATLAB, OpenCV, Arduino**</small>
 
 ## CV
 
