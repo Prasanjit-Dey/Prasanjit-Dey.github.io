@@ -8,7 +8,8 @@ header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
+## Patents
+<small> 1. **Location Tracking System for Indoor Environment**, Inventors: Prasanjit Dey, Debashis De, Sourav Hati, Patent No: 465850, Application No: 201831030620, Granted: Nov 2023</small>
 ## Journals
 
 <small>1. **Prasanjit Dey**, Soumyabrata Dev, Bianca Schoen Phelan. "Predicting Multivariate Air Pollution: A Gaussian-Mixture Nested Factorial Variational Autoencoder Approach" IEEE Geoscience and Remote Sensing Letters (2024) (SCIE) (Q1) (**[Paper Link](https://ieeexplore.ieee.org/abstract/document/10560024)**)</small>
