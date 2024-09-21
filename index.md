@@ -7,6 +7,18 @@ header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3WBF6QQBM4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3WBF6QQBM4');
+</script>
+
+
 ## About me:
 <small>I am currently doing **PhD in Computer Science** at the [SFI Centre for Research Training in Digitally-Enhanced Reality (CRT-DReal)](https://d-real.ie/) at [Technological University Dublin](https://www.tudublin.ie/). My Ph.D. research focuses on the Monitoring and Short-term Forecasting of Atmospheric Air Pollutants Using Deep Neural Networks. The world is undergoing rapid urbanization and industrialization, leading to a significant deterioration in air quality. According to World Health Organization data, air quality in most cities does not meet safe guidelines. Exposure to air pollutants poses serious long-term health risks, including heart disease, nerve damage, lung cancer, and respiratory diseases such as emphysema. Even limited exposure to air pollutants can have a detrimental impact on health. As part of my research, I am developing an AI-based prediction system employing deep learning, computer vision, and satellite imagery to provide rapid, precise, and dependable warnings.</small>
 ## Exprience:
