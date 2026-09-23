@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Prasanjit Dey"
 title_separator          : "|"
 name                     : "Prasanjit Dey"
-description              : "PhD in Technological University Dublin"
+description              : "Postdoctoral Researcher (ESA Biomass Project) at Chalmers University of Technology"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Prasanjit Dey"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD in Technological University Dublin"
-  location         : "Dublin - Ireland"
-  email            : "d22124678@mytudublin.ie"
+  bio              : "Postdoctoral Researcher (ESA Biomass Project) at Chalmers University of Technologyn"
+  location         : "Gothenburg, Sweden"
+  email            : "prasanjit.dey@chalmers.se"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
