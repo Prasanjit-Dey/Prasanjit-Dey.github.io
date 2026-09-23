@@ -2,7 +2,7 @@
 title: 'Prasanjit Dey'
 layout: single
 author_profile: true
-excerpt: Ph.D. candidate specializing in LLMs, deep learning, computer vision, and AI-based prediction systems.
+excerpt: Postdoctoral Researcher (ESA Biomass Project) at Chalmers University of Technology.
 header:
   overlay_image: /images/Profile-picture.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
